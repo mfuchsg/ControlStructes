@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		F543728B288DADDC002B7C9D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F543728A288DADDC002B7C9D /* main.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		F5437285288DADDC002B7C9D /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,14 +21,14 @@
 /* Begin PBXFileReference section */
 		F5437287288DADDC002B7C9D /* ControlStructes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ControlStructes; sourceTree = BUILT_PRODUCTS_DIR; };
 		F543728A288DADDC002B7C9D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		F5C749CA28ACE76C0024D885 /* Calc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Calc; sourceTree = "<group>"; };
-		F5C749CB28ACE7840024D885 /* FOR */ = {isa = PBXFileReference; lastKnownFileType = folder; path = FOR; sourceTree = "<group>"; };
-		F5C749CC28ACE7870024D885 /* HomeWork_NesterFor */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_NesterFor; sourceTree = "<group>"; };
-		F5C749CD28ACE78B0024D885 /* HomeWork_FOR */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_FOR; sourceTree = "<group>"; };
-		F5C749CE28ACE78E0024D885 /* HomeWork_Schooter */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_Schooter; sourceTree = "<group>"; };
-		F5C749CF28ACE7910024D885 /* HomeWork_Weather */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_Weather; sourceTree = "<group>"; };
-		F5C749D028ACE7940024D885 /* LOOPS */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LOOPS; sourceTree = "<group>"; };
-		F5C749D128ACE7970024D885 /* Palindrome */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Palindrome; sourceTree = "<group>"; };
+		F5C749D328ACEC630024D885 /* Calc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Calc; sourceTree = "<group>"; };
+		F5C749D428ACEC770024D885 /* FOR */ = {isa = PBXFileReference; lastKnownFileType = folder; path = FOR; sourceTree = "<group>"; };
+		F5C749D528ACEC830024D885 /* HomeWork_FOR */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_FOR; sourceTree = "<group>"; };
+		F5C749D628ACEC890024D885 /* HomeWork_NesterFor */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_NesterFor; sourceTree = "<group>"; };
+		F5C749D728ACEC8E0024D885 /* HomeWork_Schooter */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_Schooter; sourceTree = "<group>"; };
+		F5C749D828ACEC950024D885 /* LOOPS */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LOOPS; sourceTree = "<group>"; };
+		F5C749D928ACEC9A0024D885 /* HomeWork_Weather */ = {isa = PBXFileReference; lastKnownFileType = folder; path = HomeWork_Weather; sourceTree = "<group>"; };
+		F5C749DA28ACECA00024D885 /* Palindrome */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Palindrome; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,14 +45,14 @@
 		F543727E288DADDC002B7C9D = {
 			isa = PBXGroup;
 			children = (
-				F5C749D128ACE7970024D885 /* Palindrome */,
-				F5C749D028ACE7940024D885 /* LOOPS */,
-				F5C749CF28ACE7910024D885 /* HomeWork_Weather */,
-				F5C749CE28ACE78E0024D885 /* HomeWork_Schooter */,
-				F5C749CD28ACE78B0024D885 /* HomeWork_FOR */,
-				F5C749CC28ACE7870024D885 /* HomeWork_NesterFor */,
-				F5C749CB28ACE7840024D885 /* FOR */,
-				F5C749CA28ACE76C0024D885 /* Calc */,
+				F5C749DA28ACECA00024D885 /* Palindrome */,
+				F5C749D928ACEC9A0024D885 /* HomeWork_Weather */,
+				F5C749D828ACEC950024D885 /* LOOPS */,
+				F5C749D728ACEC8E0024D885 /* HomeWork_Schooter */,
+				F5C749D628ACEC890024D885 /* HomeWork_NesterFor */,
+				F5C749D528ACEC830024D885 /* HomeWork_FOR */,
+				F5C749D428ACEC770024D885 /* FOR */,
+				F5C749D328ACEC630024D885 /* Calc */,
 				F5437289288DADDC002B7C9D /* ControlStructes */,
 				F5437288288DADDC002B7C9D /* Products */,
 			);
@@ -135,7 +131,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F543728B288DADDC002B7C9D /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
